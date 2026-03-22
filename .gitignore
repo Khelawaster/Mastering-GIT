@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# I study Git
+INFO.md
+
 # dotenv files
 .env
 
